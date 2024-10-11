@@ -1,12 +1,12 @@
 {
-  "name": "GOD_BOT",
+  "name": "Zim-Cybers",
   "version": "1.0.0",
   "description": "✞ₜₕₐ ₛₕₐdₒw ₖᵢₗₗₑᵣ😠 , ₜₕₐ gᵣₐᵥₑ☠️ ᵣₑₛₐᵣₐcₜₒᵣ✞A WhatsApp bot created using Node.js",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name GOD_BOT",
-    "stop": "pm2 stop GOD_BOT",
-    "restart": "pm2 restart GOD_BOT"
+    "stop": "pm2 stop Zim_Cyber",
+    "restart": "pm2 restart Zim-Cyber"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",

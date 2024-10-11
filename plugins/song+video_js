@@ -16,7 +16,7 @@ const data = search.videos[0]:
 const url = data.url
 
 let desc = '
-***~¶GOD_BOT SONG DOWNLOADER¶~***
+***~¶Zim cyber SONG DOWNLOADER¶~***
 
 title: ${data.title}
 description: ${data.description}
@@ -24,7 +24,7 @@ description: ${data.description}
 ago: ${data.ago}
 views: ${data.views}
 
-MADE BY GOD_BOT WITH 😍 😍
+MADE BY 𝐦𝐫 𝐬𝐡𝐞𝐥𝐥𝐚𝐡 𝐨𝐟𝐜 WITH 😍 😍
 '
 await conn.sendMessage(from,{image:{url: data.thumnail},caption:disc}{qouted:mak}):
 

@@ -1,5 +1,5 @@
 const {
-default: GOD_BOT,
+default: Zim-Cyber,
 useMultiFileAuthState,
 DisconnectReason,
 jidNormalizedUser,
@@ -19,7 +19,7 @@ const axios = require('axios')
 const { File } = require('megajs')
 const prefix = '.'
 
-const ownerNumber = ['+263771341158']
+const ownerNumber = ['27746184894']
 
 //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/auth_info_baileys/creds.json')) {
